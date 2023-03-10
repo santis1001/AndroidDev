@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.InTracer" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Fondo</item>
+        <item name="colorPrimaryVariant">@color/Resaltos</item>
+        <item name="colorOnPrimary">@color/Texto</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Resaltos</item>
+        <item name="colorSecondaryVariant">@color/Resaltos2</item>
+        <item name="colorOnSecondary">@color/Texto</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.InTracer.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.InTracer.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.InTracer.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

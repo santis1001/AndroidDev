@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InTracer</string>
+    <string name="Bienvenido">Welcome To InTracer</string>
+    <string name="Inicia_S">LogIn to continue</string>
+    <string name="Regist_S">Create an account to continue</string>
+    <string name="Correo">Email</string>
+    <string name="Contra">Password</string>
+    <string name="Olvida_C">Forgot your password?</string>
+    <string name="Iniciar">LogIn</string>
+    <string name="Regist">New Account</string>
+    <string name="Nombre">Full Name</string>
+    <string name="Conf_contra">Confirm Password</string>
+    <string name="Cont">Continue</string>
+    <string name="Cuenta">Have an account? Sign In</string>
+    <string name="espanol">Spanish</string>
+    <string name="ingles">English</string>
+    <string name="Sel_title">Choose Language</string>
+
+    <string name="Toast_Error_correo">Invalid Email</string>
+    <string name="Toast_Error_password">Password should be minimum 8 characters long</string>
+    <string name="Toast_Error_password_Num">Should have atleast 1 Number</string>
+    <string name="Toast_Error_password_Equal">Passwords dont match</string>
+    <string name="Toast_Error_incioS">LogIn failed</string>
+    <string name="Toast_Check_regist">Check email for verification</string>
+    <string name="Toast_Error_Verif">Registration failed</string>
+    <string name="Toast_Check_Verif">Your email is not verified, Please check it</string>
+
+    <string name="Forgot_emailT">Enter your email</string>
+    <string name="Forgot_recup">Retrieve your password</string>
+    <string name="Forgot_retrieve">Retrieve</string>
+    <string name="Forgot_back">Go Back</string>
+    <string name="Forgot_Toast">A mail has been sent to your email</string>
+    <string name="Forgot_Toast_error">Invalid Email</string>
+
+    <string name="cerrar">Logout</string>
+
+    <string name="Mensajes">Chats</string>
+    <string name="Groups">Groups</string>
+
+    <string name="FF_Title">Chats</string>
+    <string name="SF_Title">Groups</string>
+
+    <string name="LN_Profile">Profile</string>
+    <string name="LN_Notification">Notifications</string>
+    <string name="LN_Logout">Logout</string>
+    <string name="LN_Lang">Language</string>
+
+    <string name="PP_Logout">Logout</string>
+    <string name="PP_Que">Are you sure you want to logout?</string>
+    <string name="PP_yes">Logout</string>
+    <string name="PP_no">Cancel</string>
+
+    <string name="label_profile">Profile</string>
+    <string name="label_notif">Notifications</string>
+    <string name="label_logout">Logout</string>
+    <string name="label_lang">Language</string>
+
+    <string name="label_chat">Chat</string>
+    <string name="label_groups">Groups</string>
+
+    <string name="search_email">Search</string>
+
+    <string name="NewMessage">New Message</string>
+    <string name="to_">To</string>
+    <string name="compose_">Compose</string>
+    <string name="sent_">Message Sent</string>
+
+    <string name="InMessage">Message</string>
+
+    <string name="NewGroup">New Group</string>
+    <string name="GName">Name</string>
+    <string name="Descripcion">Description</string>
+    <string name="AddContact">Add to Group</string>
+
+</resources>

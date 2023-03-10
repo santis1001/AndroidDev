@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InTracer</string>
+    <string name="Bienvenido">Bienvenido a InTracer</string>
+    <string name="Inicia_S">Inicia sesion para continuar</string>
+    <string name="Regist_S">Registra tus datos para continuar</string>
+    <string name="Correo">Correo</string>
+    <string name="Contra">Contraseña</string>
+    <string name="Olvida_C">Olvidaste tu contraseña?</string>
+    <string name="Iniciar">Iniciar</string>
+    <string name="Regist">Registrarse</string>
+    <string name="Nombre">Nombre Completo</string>
+    <string name="Conf_contra">Confirmar Contraseña</string>
+    <string name="Cont">Continuar</string>
+    <string name="Cuenta">Ya tienes cuenta? Inicia sesion</string>
+    <string name="espanol">Español</string>
+    <string name="ingles">Ingles</string>
+    <string name="Sel_title">Seleccione Lenguaje</string>
+
+    <string name="Toast_Error_correo">Correo Invalido</string>
+    <string name="Toast_Error_password">Se deben tener almenos 8 caracteres</string>
+    <string name="Toast_Error_password_Num">Se deben tener almenos 1 numero</string>
+    <string name="Toast_Error_password_Equal">Deben ser Igual</string>
+    <string name="Toast_Error_incioS">Fallo al inicio de sesion</string>
+    <string name="Toast_Check_regist">Cheque su correo para verificacion</string>
+    <string name="Toast_Error_Verif">Fallo en el registro</string>
+    <string name="Toast_Check_Verif">Su correo no esta verificado, Porfavor verefiquelo</string>
+
+    <string name="Forgot_emailT">Ingresa tu correo</string>
+    <string name="Forgot_recup">Recupera tu contraseña</string>
+    <string name="Forgot_retrieve">Recuperar</string>
+    <string name="Forgot_back">Volver</string>
+    <string name="Forgot_Toast">Se ha enviado un correo a su cuenta</string>
+    <string name="Forgot_Toast_error">Correo invalido</string>
+
+    <string name="cerrar">Cerrar Sesion</string>
+
+    <string name="Mensajes">Mensajes</string>
+    <string name="Groups">Salas</string>
+
+
+    <string name="FF_Title">Mensajes</string>
+    <string name="SF_Title">Salas</string>
+
+    <string name="LN_Profile">Perfil</string>
+    <string name="LN_Notification">Notificaciones</string>
+    <string name="LN_Logout">Salir</string>
+    <string name="LN_Lang">Lenguaje</string>
+
+    <string name="PP_Logout">Cerrar Sesion</string>
+    <string name="PP_Que">Seguro que quire cerrar sesion?</string>
+    <string name="PP_yes">Salir</string>
+    <string name="PP_no">Cancelar</string>
+
+    <string name="label_profile">Perfil</string>
+    <string name="label_notif">Notificaciones</string>
+    <string name="label_logout">Cerrar Sesion</string>
+    <string name="label_lang">Idioma</string>
+
+    <string name="label_chat">Mensajes</string>
+    <string name="label_groups">Grupos</string>
+
+    <string name="search_email">Buscar</string>
+
+    <string name="NewMessage">Nuevo Mensaje</string>
+    <string name="to_">Para</string>
+    <string name="compose_">Escribe</string>
+    <string name="sent_">Mensaje Enviado</string>
+
+    <string name="InMessage">Mensaje</string>
+
+    <string name="NewGroup">Nuevo Grupo</string>
+    <string name="GName">Nombre</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="AddContact">Agregar Personas</string>
+
+
+</resources>

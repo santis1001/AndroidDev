@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Fondo">#A5A5A5</color>
+    <color name="Texto">#FFFFFFFF</color>
+    <color name="Resaltos">#595959</color>
+    <color name="Resaltos2">#363636</color>
+</resources>

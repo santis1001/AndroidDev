@@ -1,0 +1,7 @@
+package com.example.intracer.Fr_chat;
+
+public class OpenTokConfig {
+    public static final String API_KEY = "47383701";
+    public static final String SESSION_ID = "2_MX40NzM4MzcwMX5-MTYzNzY2MDAwNzYwMX5sMHR3SE9RT21kZmJ1TTFNWnQrNWIxVUh-fg";
+    public static final String TOKEN = "T1==cGFydG5lcl9pZD00NzM4MzcwMSZzaWc9M2FkNjUxMzY0NmU5ZmVkNjNkZDdiYjYzZDc2OGZhYTNlMzA0YjM2NjpzZXNzaW9uX2lkPTJfTVg0ME56TTRNemN3TVg1LU1UWXpOelkyTURBd056WXdNWDVzTUhSM1NFOVJUMjFrWm1KMVRURk5XblFyTldJeFZVaC1mZyZjcmVhdGVfdGltZT0xNjM3NjYwMDA4Jm5vbmNlPTAuMjUyOTAxNjAzNzk4ODgwNSZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNjM4MjY0ODA4JmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9";
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@+id/bottom_chat">
+
+    <fragment
+        android:id="@+id/bottom_chat"
+        android:name="com.example.intracer.Fr_chat.ChatFragment"
+        android:label="@string/label_chat"
+        tools:layout="@layout/fragment_chat"
+        />
+    <fragment
+        android:id="@+id/bottom_groups"
+        android:name="com.example.intracer.Fr_groups.GroupsFragment"
+        android:label="@string/label_groups"
+        tools:layout="@layout/fragment_groups"
+        />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.intracer.Fr_profile.ProfileFragment"
+        android:label="@string/label_profile"
+        tools:layout="@layout/fragment_profile"
+        />
+    <fragment
+        android:id="@+id/nav_language"
+        android:name="com.example.intracer.Fr_Lang.LanguageFragment"
+        android:label="@string/label_lang"
+        tools:layout="@layout/fragment_language"
+        />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.intracer.Fr_Logout.LogoutFragment"
+        android:label="@string/label_logout"
+        tools:layout="@layout/fragment_logout" />
+
+</navigation>
